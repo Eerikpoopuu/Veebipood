@@ -13,6 +13,21 @@
   }
 }
 
+.bigHeader {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.mediumHeader {
+  color: #a99d9d;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.smallHeader{
+  height: 100px;
+  font-style: Arial;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
